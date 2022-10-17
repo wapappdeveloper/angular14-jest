@@ -1,22 +1,4 @@
-import { of } from "rxjs";
 import { AppComponent } from "./app.component";
-//import { HttpClient } from "@angular/common/http";
-
-// describe('AppComponent', () => {
-//   let fixture: AppComponent;
-//   //let httpClient: HttpClient;
-//   let httpClientSpy: any;
-
-//   beforeEach(() => {
-//     httpClientSpy = {
-//       get: jest.fn()
-//     }
-//     fixture = new AppComponent(httpClientSpy);
-//   });
-
-
-
-// });
 
 describe('AppComponent', () => {
   let fixture: AppComponent;
